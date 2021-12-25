@@ -1,0 +1,30 @@
+.heading{
+    font-size: 32px;
+    font-weight: bolder;
+    color: rgb(226, 43, 43);
+    border-radius: 10px;
+    margin:0px;
+}
+
+.info{
+    font-size: 18px;
+    color: lightblue;
+
+}
+
+#footer{
+    font-family: 'Courgette', cursive;
+    background-color: coral;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+    font-size: 25px;
+    line-height: 2;
+}
+
+canvas{
+    border: 5px solid rgb(206, 137, 148);
+    border-radius: 15px;
+    box-shadow: 5px 5px 5px rgb(63, 151, 151);
+}
